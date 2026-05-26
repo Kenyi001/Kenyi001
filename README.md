@@ -1,31 +1,44 @@
-# ¡Hola! 👋 Soy Kenyi
+# Hola, soy Dax Kenji 👋
 
-Actualmente trabajo como desarrollador junior y siempre busco aprender cosas nuevas y mejorar mis habilidades. Aquí comparto algunos de los proyectos con los que he practicado y los que más me han enseñado hasta ahora.
+Backend Engineer & AI Developer construyendo desde Santa Cruz, Bolivia.
 
-## Sobre mí
+Construyo sistemas de IA en producción: pipelines RAG, agentes de voz con ElevenLabs, APIs que escalan. Avanzo hacia fullstack porque el código que importa no tiene fronteras.
 
-- 💼 Trabajo actualmente como desarrollador junior con ia 
-- 🎯 Mi meta ahora mismo: fortalecer mis habilidades en [tecnologías principales, por ejemplo: JavaScript, React, C\#, ASP.NET, etc.]
-- 🌱 Siempre estoy aprendiendo algo nuevo, ahora explorando [temas/tecnologías u otras inquietudes técnicas]
-- ✨ Me interesa mucho la colaboración y la revisión de código para mejorar juntos como equipo
+---
 
+## Lo que hago ahora
 
-## Proyectos Destacados
+- 🔧 Backend dev en **Hola S.R.L.** — sistemas IA, automatización, integraciones empresariales
+- - 📡 Proyectos en **Tigo** — telecomunicaciones, data, infraestructura
+  - - 🧠 Construyendo con RAG, LLMs, OCR y Voice AI en producción
+    - - 🚀 Aprendiendo frontend para cerrar el loop fullstack
+     
+      - ---
 
-Aquí algunos proyectos representativos. Estoy más enfocado/a en escribir código claro, aprendiendo buenas prácticas y completando lo que empiezo:
+      ## Stack
 
-- **[Nombre del proyecto]**
-Breve descripción de qué trata, en qué trabajaste y/o qué aprendiste.
-- **[Otro proyecto]**
-Una línea sobre tu rol, tecnologías y retos principales.
+      **Backend & IA**
+      `Node.js` `TypeScript` `C# .NET 8` `Python` `RAG Systems` `ElevenLabs` `LLM Optimization`
 
+      **Cloud & DevOps**
+      `Docker` `GCP` `Azure` `AWS` `Redis` `CI/CD`
 
-## Tecnologías y herramientas
+      **Explorando**
+      `Next.js` `Web3` `Edge Computing`
 
-<!-- Añade o quita según lo que uses de verdad -->
+      ---
 
-## ¿Quieres saber más?
+      ## Proyectos destacados
 
-- 📫 Puedes contactarme en [daxkenyi001@gmail.com] o [[otra red profesional](http://linkedin.com/in/kenyi001)]
-- 💬 Me gusta compartir lo que aprendo y recibir sugerencias, ¡toda crítica constructiva es bienvenida!
+      - **[TrustArk](https://daxkenyi.vercel.app/projects/trustark)** — Verificación de identidad Web3 con IA
+      - - **[ENAid](https://daxkenyi.vercel.app/projects/enaid)** — Agente de voz IA para atención al cliente
+        - - **[LedgerLens](https://daxkenyi.vercel.app/projects/ledgerlens)** — OCR + IA para facturas y documentos contables
+          - - **[WhatsApp RAG Bot](https://daxkenyi.vercel.app/projects/whatsapp-rag-bot)** — Asistente con contexto persistente vía WhatsApp
+           
+            - ---
 
+            ## Encuéntrame
+
+            🌐 [daxkenyi.vercel.app](https://daxkenyi.vercel.app)
+            📧 [daxkenyi001@gmail.com](mailto:daxkenyi001@gmail.com)
+            💼 [linkedin.com/in/kenyi001](https://linkedin.com/in/kenyi001)
