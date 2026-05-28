@@ -30,15 +30,15 @@ Construyo sistemas de IA en producción: pipelines RAG, agentes de voz con Eleve
 
 ## Proyectos destacados
 
-- **[TrustArk](https://daxkenyi.vercel.app/projects/trustark)** — Verificación de identidad Web3 con IA
-- **[ENAid](https://daxkenyi.vercel.app/projects/enaid)** — Agente de voz IA para atención al cliente
-- **[LedgerLens](https://daxkenyi.vercel.app/projects/ledgerlens)** — OCR + IA para facturas y documentos contables
-- **[WhatsApp RAG Bot](https://daxkenyi.vercel.app/projects/whatsapp-rag-bot)** — Asistente con contexto persistente vía WhatsApp
+- **[TrustArk](https://daxkenyi.is-a.dev/projects/trustark)** — Verificación de identidad Web3 con IA
+- **[ENAid](https://daxkenyi.is-a.dev/projects/enaid)** — Agente de voz IA para atención al cliente
+- **[LedgerLens](https://daxkenyi.is-a.dev/projects/ledgerlens)** — OCR + IA para facturas y documentos contables
+- **[WhatsApp RAG Bot](https://daxkenyi.is-a.dev/projects/whatsapp-rag-bot)** — Asistente con contexto persistente vía WhatsApp
 
 ---
 
 ## Encuéntrame
 
-🌐 [daxkenyi.vercel.app](https://daxkenyi.vercel.app)
+🌐 [daxkenyi.is-a.dev](https://daxkenyi.is-a.dev)
 📧 [daxkenyi001@gmail.com](mailto:daxkenyi001@gmail.com)
 💼 [linkedin.com/in/kenyi001](https://linkedin.com/in/kenyi001)
