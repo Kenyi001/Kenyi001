@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/dk-core.svg" alt="Sistema DK Core: LISTEN y BUILD en línea, GUIDE en espera, convergiendo en un núcleo DK" width="820">
+  <img src="./assets/dk-core-magi.svg" alt="Sistema DK Core: LISTEN y BUILD en línea, GUIDE en espera, convergiendo en un núcleo DK" width="820">
 </p>
 
 <p align="center">
