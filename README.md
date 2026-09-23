@@ -3,14 +3,16 @@
 Backend & AI Engineer — Santa Cruz, Bolivia.
 
 <p align="center">
-  <img src="./assets/dk-core.svg" alt="DK Core: listen, build, guide — tres protocolos convergiendo en un núcleo" width="820">
+  <img src="./assets/dk-core.svg" alt="Sistema DK Core: listen, build y guide convergiendo en un núcleo" width="820">
 </p>
 
-Antes que nada, escucho. Me cuesta abrirme, pero entender qué necesita alguien —de verdad, no la versión que dice en la primera llamada— es la parte del trabajo que más me interesa: a qué le está apuntando, en qué se quiere convertir. Construyo sistemas backend e IA en producción, y en los proyectos que más me importan hay siempre una parte de coordinar: que cada persona entienda qué está construyendo y por qué. Todavía no tuve muchas oportunidades de liderar — me gusta bastante hacer las cosas a mi manera — pero es la dirección en la que quiero crecer: ayudar a que un equipo entero llegue a un mejor lugar, no solo escribir el código.
+Construyo sistemas backend e IA que llegan a producción, siempre partiendo de entender el problema real antes de escribir código.
 
 ## Ahora
 
-Backend dev en **Hola S.R.L. / BCP** — middleware LLM en banca (RAG, OCR, webhooks). Proyectos de datos e infraestructura en **Tigo**. Avanzando hacia fullstack porque el código que importa no tiene fronteras.
+Backend dev en **Hola S.R.L. / BCP** (ago 2025 – jun 2026) — middleware LLM en banca (RAG, OCR, webhooks). Proyectos de datos e infraestructura en **Tigo**. Sumando frontend con Next.js para moverme hacia fullstack, y cada vez más involucrado en coordinar el trabajo técnico de un equipo.
+
+Comunidad: **GDG Santa Cruz**, **YAIS Lab** (AI Research Tour), staff en **Cursor Buildathon Bolivia**. #89 mundial en DEV3PACK.
 
 ## Stack
 
@@ -21,10 +23,10 @@ Explorando: `Next.js` `Web3` `Edge Computing`
 
 ## Proyectos
 
-[TrustArk](https://daxkenyi.is-a.dev/projects/trustark) — verificación de identidad Web3 con IA
-[ENAid](https://daxkenyi.is-a.dev/projects/enaid) — agente de voz IA para atención al cliente
-[LedgerLens](https://daxkenyi.is-a.dev/projects/ledgerlens) — OCR + IA para facturas y documentos contables
-[WhatsApp RAG Bot](https://daxkenyi.is-a.dev/projects/whatsapp-rag-bot) — asistente con contexto persistente vía WhatsApp
+- [Prisma](https://daxkenyi.is-a.dev/projects/ledgerlens) — analizador financiero on-chain para wallets Avalanche/Ethereum: clasificación IA Humano/Bot, detección de estafas, pagos x402 en USDC
+- [AI Voice Agent](https://daxkenyi.is-a.dev/projects/ai-voice-agent) — agente de voz con ElevenLabs + GPT-4, RAG y latencia <1s en producción
+- [Enaid](https://daxkenyi.is-a.dev/projects/enaid) — identidad digital soberana y reputación on-chain en Cardano (DoraHacks Cardano Latam)
+- [TrustArk](https://daxkenyi.is-a.dev/projects/trustark) — certificación NFT on-chain sobre Stellar para credenciales educativas (DoraHacks Stellar Latam)
 
 ## Encuéntrame
 
