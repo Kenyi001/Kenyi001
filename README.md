@@ -1,7 +1,7 @@
 <h1 align="center">Dax Kenji Tellez Duran</h1>
 
 <p align="center">
-  <code>backend &amp; ai engineer</code>&nbsp;·&nbsp;<code>santa cruz, bo</code>&nbsp;·&nbsp;<code>abierto a roles</code>
+  <code>analista de datos @ tecno bolivia</code>&nbsp;·&nbsp;<code>backend &amp; ia</code>&nbsp;·&nbsp;<code>santa cruz, bo</code>
 </p>
 
 <p align="center">
@@ -9,7 +9,8 @@
 </p>
 
 <p align="center">
-  <img src="./assets/dk-core-magi.svg" alt="Sistema DK Core: LISTEN y BUILD en línea, GUIDE en espera, convergiendo en un núcleo DK" width="820">
+  <img src="./assets/dk-core-magi.svg" alt="DK Core: panel en vivo. BUILD, LISTEN y GUIDE se encienden a diario según mi actividad real en GitHub" width="820"><br>
+  <sub>Estados calculados a diario con mi actividad en GitHub (lo privado solo cuenta como número anónimo) · reglas en <a href="./scripts/magi.mjs">scripts/magi.mjs</a></sub>
 </p>
 
 <p align="center">
@@ -40,7 +41,7 @@
 
 ## Trayectoria
 
-Abierto a roles de backend e IA aplicada. Antes: backend en **Hola S.R.L. / BCP** (ago 2025 – jun 2026) — middleware LLM en banca con RAG, OCR y webhooks — y proyectos de datos e infraestructura en **Tigo**. Sumando frontend con Next.js para moverme hacia fullstack.
+Analista de datos en **TECNO Bolivia**. Antes: backend en **Hola S.R.L. / BCP** (ago 2025 – jun 2026) — middleware LLM en banca con RAG, OCR y webhooks — y proyectos de datos e infraestructura en **Tigo**. Sumando frontend con Next.js para moverme hacia fullstack.
 
 Comunidad: **GDG Santa Cruz** · **YAIS Lab** (AI Research Tour) · staff en **Cursor Buildathon Bolivia**.
 

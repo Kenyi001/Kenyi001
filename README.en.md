@@ -1,7 +1,7 @@
 <h1 align="center">Dax Kenji Tellez Duran</h1>
 
 <p align="center">
-  <code>backend &amp; ai engineer</code>&nbsp;·&nbsp;<code>santa cruz, bo</code>&nbsp;·&nbsp;<code>open to roles</code>
+  <code>data analyst @ tecno bolivia</code>&nbsp;·&nbsp;<code>backend &amp; ai</code>&nbsp;·&nbsp;<code>santa cruz, bo</code>
 </p>
 
 <p align="center">
@@ -9,7 +9,8 @@
 </p>
 
 <p align="center">
-  <img src="./assets/dk-core-magi.svg" alt="DK Core system: LISTEN and BUILD online, GUIDE on standby, converging on a DK core" width="820">
+  <img src="./assets/dk-core-magi.svg" alt="DK Core: live panel. BUILD, LISTEN and GUIDE light up daily based on my real GitHub activity" width="820"><br>
+  <sub>States computed daily from my GitHub activity (private work only counts as an anonymous number) · rules in <a href="./scripts/magi.mjs">scripts/magi.mjs</a></sub>
 </p>
 
 <p align="center">
@@ -40,7 +41,7 @@
 
 ## Background
 
-Open to backend and applied AI roles. Previously: backend at **Hola S.R.L. / BCP** (Aug 2025 – Jun 2026) — LLM middleware in banking with RAG, OCR and webhooks — and data and infrastructure projects at **Tigo**. Adding frontend with Next.js to move toward full stack.
+Data Analyst at **TECNO Bolivia**. Previously: backend at **Hola S.R.L. / BCP** (Aug 2025 – Jun 2026) — LLM middleware in banking with RAG, OCR and webhooks — and data and infrastructure projects at **Tigo**. Adding frontend with Next.js to move toward full stack.
 
 Community: **GDG Santa Cruz** · **YAIS Lab** (AI Research Tour) · staff at **Cursor Buildathon Bolivia**.
 

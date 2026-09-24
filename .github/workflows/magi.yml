@@ -1,0 +1,41 @@
+name: MAGI vivo
+
+on:
+  schedule:
+    - cron: '0 10 * * *' # 06:00 en Bolivia (UTC-4)
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['scripts/magi.mjs', '.github/workflows/magi.yml']
+
+permissions:
+  contents: write
+
+concurrency:
+  group: magi
+  cancel-in-progress: false
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: node scripts/magi.mjs --self-test
+      - run: node scripts/magi.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.MAGI_TOKEN || secrets.GITHUB_TOKEN }}
+          GH_USER: Kenyi001
+      # Solo commitea si el SVG cambio. LAST SYNC cambia a diario, asi que hay un commit por dia:
+      # esa actividad evita que GitHub desactive el cron a los 60 dias.
+      - run: |
+          git diff --quiet -- assets/dk-core-magi.svg && { echo "sin cambios"; exit 0; }
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/dk-core-magi.svg
+          git commit -m "chore(dk-core): sincroniza estado diario"
+          git pull --rebase
+          git push
