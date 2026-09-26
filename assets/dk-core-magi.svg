@@ -1,6 +1,6 @@
-<svg width="960" height="640" viewBox="0 0 960 640" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="DK Core, panel en vivo: BUILD 2 en linea, LISTEN 1 en linea, GUIDE 3 en espera. 2 de 3 en linea. Sincronizado 2026-09-25">
+<svg width="960" height="640" viewBox="0 0 960 640" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="DK Core, panel en vivo: BUILD 2 en linea, LISTEN 1 en linea, GUIDE 3 en espera. 2 de 3 en linea. Sincronizado 2026-09-26">
   <title>DK Core</title>
-  <desc>Generado 2026-09-25 por scripts/magi.mjs con la API publica de GitHub. BUILD: commits o push en 7 dias (12 publicos, 0 privados sin nombre). LISTEN: issue abierto o comentario en un repo publico (propio o ajeno) en 30 dias. GUIDE: review a un PR de otra persona en un repo ajeno en 30 dias. El repo del perfil no cuenta.</desc>
+  <desc>Generado 2026-09-26 por scripts/magi.mjs con la API publica de GitHub. BUILD: commits o push en 7 dias (12 publicos, 0 privados sin nombre). LISTEN: issue abierto o comentario en un repo publico (propio o ajeno) en 30 dias. GUIDE: review a un PR de otra persona en un repo ajeno en 30 dias. El repo del perfil no cuenta.</desc>
   <defs>
     <filter id="neon" x="-10%" y="-10%" width="120%" height="120%">
       <feGaussianBlur stdDeviation="7" result="blur"/>
@@ -52,11 +52,11 @@
     <text x="28" y="120">COMMITS · 7D :</text>
     <text x="28" y="146">12</text>
     <text x="28" y="178">LAST PUSH :</text>
-    <text x="28" y="204">DK-PORTFOLIO · 4D</text>
+    <text x="28" y="204">DK-PORTFOLIO · 5D</text>
     <text x="28" y="236">TOP LANG · 90D :</text>
     <text x="28" y="262">JUPYTER NOTEBOOK</text>
     <text x="28" y="294">LAST SYNC :</text>
-    <text x="28" y="320">2026-09-25 · UTC-4</text>
+    <text x="28" y="320">2026-09-26 · UTC-4</text>
   </g>
 
   <!-- columna derecha: dos cajas de estado + capas del stack -->
