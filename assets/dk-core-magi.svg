@@ -1,6 +1,6 @@
-<svg width="960" height="640" viewBox="0 0 960 640" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="DK Core, panel en vivo: BUILD 2 en linea, LISTEN 1 en linea, GUIDE 3 en espera. 2 de 3 en linea. Sincronizado 2026-09-27">
+<svg width="960" height="640" viewBox="0 0 960 640" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="DK Core, panel en vivo: BUILD 2 en espera, LISTEN 1 en linea, GUIDE 3 en espera. 1 de 3 en linea. Sincronizado 2026-09-28">
   <title>DK Core</title>
-  <desc>Generado 2026-09-27 por scripts/magi.mjs con la API publica de GitHub. BUILD: commits o push en 7 dias (5 publicos, 0 privados sin nombre). LISTEN: issue abierto o comentario en un repo publico (propio o ajeno) en 30 dias. GUIDE: review a un PR de otra persona en un repo ajeno en 30 dias. El repo del perfil no cuenta.</desc>
+  <desc>Generado 2026-09-28 por scripts/magi.mjs con la API publica de GitHub. BUILD: commits o push en 7 dias (0 publicos, 0 privados sin nombre). LISTEN: issue abierto o comentario en un repo publico (propio o ajeno) en 30 dias. GUIDE: review a un PR de otra persona en un repo ajeno en 30 dias. El repo del perfil no cuenta.</desc>
   <defs>
     <filter id="neon" x="-10%" y="-10%" width="120%" height="120%">
       <feGaussianBlur stdDeviation="7" result="blur"/>
@@ -50,13 +50,13 @@
     <text x="28" y="62">PROTOCOL :</text>
     <text x="28" y="88">LISTEN_FIRST</text>
     <text x="28" y="120">COMMITS · 7D :</text>
-    <text x="28" y="146">5</text>
+    <text x="28" y="146">0</text>
     <text x="28" y="178">LAST PUSH :</text>
-    <text x="28" y="204">DK-PORTFOLIO · 6D</text>
+    <text x="28" y="204">DK-PORTFOLIO · 7D</text>
     <text x="28" y="236">TOP LANG · 90D :</text>
     <text x="28" y="262">JUPYTER NOTEBOOK</text>
     <text x="28" y="294">LAST SYNC :</text>
-    <text x="28" y="320">2026-09-27 · UTC-4</text>
+    <text x="28" y="320">2026-09-28 · UTC-4</text>
   </g>
 
   <!-- columna derecha: dos cajas de estado + capas del stack -->
@@ -71,7 +71,7 @@
     <rect x="923" y="117" width="3" height="36" fill="#EC7357"/>
     <rect x="929" y="117" width="3" height="36" fill="#EC7357"/>
     <text x="708" y="128" font-size="15" letter-spacing="0.5" textLength="153" lengthAdjust="spacingAndGlyphs">DELIBERATION RESULT</text>
-    <text x="708" y="154" font-size="20" font-weight="800" letter-spacing="0.4">2 / 3 ONLINE</text>
+    <text x="708" y="154" font-size="20" font-weight="800" letter-spacing="0.4">1 / 3 ONLINE</text>
 
     <text x="680" y="190" font-size="16">Layer 3:</text>
     <text x="680" y="211" font-size="17">Applied AI · RAG · Voice</text>
@@ -106,8 +106,10 @@
   <!-- recuadros de estado: 稼働 = en linea, 待機 = en espera -->
   <g font-family="'Yu Mincho', 'YuMincho', 'Hiragino Mincho ProN', 'Noto Serif CJK JP', 'Noto Serif JP', 'MS Mincho', serif" font-size="44" font-weight="700" text-anchor="middle">
     <g filter="url(#glowText)">
-      <rect x="410" y="128" width="140" height="68" rx="4" fill="none" stroke="#7DD3B0" stroke-width="3"/>
-      <text x="480" y="178" fill="#9BDCBF">稼働</text>
+      <!-- parpadea ~8s y se queda fijo: sin movimiento infinito que no se pueda pausar -->
+      <animate attributeName="opacity" values="1;0.35;1" dur="1.6s" repeatCount="5" fill="freeze"/>
+      <rect x="410" y="128" width="140" height="68" rx="4" fill="#EC7357" fill-opacity="0.08" stroke="#EC7357" stroke-width="3"/>
+      <text x="480" y="178" fill="#EF937C">待機</text>
     </g>
     <g filter="url(#glowText)">
       <rect x="607" y="436" width="140" height="68" rx="4" fill="none" stroke="#7DD3B0" stroke-width="3"/>
@@ -123,7 +125,7 @@
 
   <!-- traduccion bajo cada recuadro, para quien no lee japones o no tiene fuente CJK -->
   <g font-family="'JetBrains Mono', Consolas, monospace" font-size="15" font-weight="700" letter-spacing="3" text-anchor="middle">
-    <text x="480" y="224" fill="#7DD3B0">ONLINE</text>
+    <text x="480" y="224" fill="#EC7357">STANDBY</text>
     <text x="677" y="532" fill="#7DD3B0">ONLINE</text>
     <text x="285" y="532" fill="#EC7357">STANDBY</text>
   </g>
